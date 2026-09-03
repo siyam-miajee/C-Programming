@@ -1,2 +1,2 @@
 # C-Programming
-My C programming practice and university coursework.
+C programming practice, lab work, and university coursework.
